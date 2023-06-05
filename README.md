@@ -4,8 +4,8 @@
             <h1>Hi 👋, I'm Denis Lit</h1>
             <h3>Fullstack developer and Project Manager</h3>
             <div>
-                <a href="">Repositories</a>
-                <a href="">Linkedin</a>
+                <a href="https://github.com/gDenisLit?tab=repositories">[Repositories] - </a>
+                <a href="https://www.linkedin.com/in/-denis-lit/">[Linkedin]</a>
             </div>
         </div>
         <img src="https://res.cloudinary.com/dokgseqgj/image/upload/v1685951870/Male_developer_developing_Website_bpyagz.gif"
@@ -17,7 +17,7 @@
                 🔭 I’m currently working - GAGGER
             </h3>
             <p>A social media platform for sharing memes and videos.</p>
-            <p>-<a href="">Check out the code</a></p>
+            <p>-<a href="">[Check out the code]</a></p>
         </section>
         <section>
             <h3>
@@ -25,8 +25,8 @@
             </h3>
             <p>Website Building Platform inspired by Wix.</p>
             <p>Implemented using Vue.js, Vuex, Node.js, Express, SocketIO, and MongoDB.</p>
-            <p>-<a href="https://welix.onrender.com/">Check out the project</a></p>
-            <p>-<a href="https://github.com/guykadosh/Welix-frontend">Check out the code</a></p>
+            <p>-<a href="https://welix.onrender.com/">[Check out the project]</a></p>
+            <p>-<a href="https://github.com/guykadosh/Welix-frontend">[Check out the code]</a></p>
         </section>
     </main>
     <aside>
