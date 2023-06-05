@@ -1,4 +1,4 @@
-<body background="#242323">
+<body bgcolor="#242323">
     <header>
         <div>
             <h1>Hi 👋, I'm Denis Lit</h1>
