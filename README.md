@@ -1,4 +1,4 @@
-<body>
+<body background="#242323">
     <header>
         <div>
             <h1>Hi 👋, I'm Denis Lit</h1>
@@ -111,61 +111,4 @@
         </p>
     </footer>
 
-    <style>
-        :root {
-            --text-clr: #fff;
-        }
-
-        body {
-            font-family: 'Nunito', sans-serif;
-            background-color: #242323;
-            color: var(--text-clr);
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            padding: 20px;
-        }
-
-        a {
-            text-decoration: none;
-            color: var(--text-clr);
-        }
-
-        header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        header div a {
-            border: 1px solid var(--text-clr);
-            padding: 10px;
-            border-radius: 5px;
-        }
-
-        header div a:first-of-type {
-            background-color: rgb(212, 11, 169);
-        }
-
-        header img {
-            width: 60%;
-        }
-
-        main section {
-            margin-bottom: 50px;
-        }
-
-        main section a {
-            text-decoration: underline;
-        }
-
-        aside p {
-            max-width: 600px;
-        }
-
-        footer {
-            display: flex;
-            gap: 20px;
-        }
-    </style>
 </body>
