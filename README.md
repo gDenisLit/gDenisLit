@@ -2,7 +2,7 @@
     <header>
         <div>
             <h1>Hi 👋, I'm Denis Lit</h1>
-            <h3>Fullstack web developer and a Found engineer at a tech startup</h3>
+            <h3>Founding Engineer at Intail AI</h3>
             <div>
                 <a href="https://github.com/gDenisLit?tab=repositories">[Repositories] - </a>
                 <a href="https://www.linkedin.com/in/-denis-lit/">[Linkedin]</a>
